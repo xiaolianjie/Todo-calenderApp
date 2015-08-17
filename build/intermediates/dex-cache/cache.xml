@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ooyanetomohito/AndroidStudioProject/OrthoNspineApp1/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/ooyanetomohito/AndroidStudioProject/OrthoNspineApp1/app/build/intermediates/pre-dexed/debug/classes-d88d482cdb0fa806f22878ece2bcb97f3723d4fd.jar" />
+    </item>
+    <item
+        jar="/Users/ooyanetomohito/AndroidStudioProject/OrthoNspineApp1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/ooyanetomohito/AndroidStudioProject/OrthoNspineApp1/app/build/intermediates/pre-dexed/debug/classes-ecea4ed2c62ccae928d13ee13e0fe9dfb3b42817.jar" />
+    </item>
+    <item
+        jar="/Users/ooyanetomohito/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/ooyanetomohito/AndroidStudioProject/OrthoNspineApp1/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-fd2c06c9c7b7844dc92b261593b6c9c8286ccc9b.jar" />
+    </item>
+    <item
+        jar="/Users/ooyanetomohito/AndroidStudioProject/OrthoNspineApp1/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/ooyanetomohito/AndroidStudioProject/OrthoNspineApp1/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-a14e7582c7a55573cd9a6ae196ef32ff4f18a08a.jar" />
+    </item>
+
+</items>
